@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+telegram.org	TRUE	/	FALSE	1999999999	stel_ssid	26aacd71e50f66d44e_9156569266416769125
+telegram.org	TRUE	/	FALSE	1999999999	samesite	None
+telegram.org	TRUE	/	FALSE	1999999999	stel_ln	fa
+
